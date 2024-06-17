@@ -22,13 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Scrum Master](https://img.shields.io/badge/Scrum_Master-%234EA94B.svg?style=for-the-badge)
-![SQL Certified](https://img.shields.io/badge/SQL_Certified-%234169E1.svg?style=for-the-badge)
-![Swift Certified](https://img.shields.io/badge/Swift_Certified-%23FFAC45.svg?style=for-the-badge)
-![iOS Certified](https://img.shields.io/badge/iOS_Certified-%23000000.svg?style=for-the-badge)
-![Kotlin Certified](https://img.shields.io/badge/Kotlin_Certified-%237F52FF.svg?style=for-the-badge)
-![Android Certified](https://img.shields.io/badge/Android_Certified-%233DDC84.svg?style=for-the-badge)
-![Dart Certified](https://img.shields.io/badge/Dart_Certified-%230175C2.svg?style=for-the-badge)
-![Flutter Certified](https://img.shields.io/badge/Flutter_Certified-%2302569B.svg?style=for-the-badge)
 
 ### 📊 GitHub Stats:
 No stats displayed, focusing on profile highlights.
