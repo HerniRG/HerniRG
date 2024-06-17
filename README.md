@@ -6,7 +6,7 @@
 📱 Currently focusing on impactful mobile app development.<br>
 💬 Ask me about mobile development, teamwork, or collaboration.<br>
 🌍 Open to new opportunities and collaborations.<br>
-📫 Reach me at hernanrg@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/).
+📫 Reach me at hernanrg85@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/).
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
