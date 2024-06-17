@@ -26,4 +26,33 @@
 
 ---
 
+### 📁 My Projects:
+- [Python Password Generator](https://github.com/HerniRG/PythonPasswordGenerator): Password generator.
+  This simple project, developed in Python and Tkinter, generates random passwords and saves them in a text file.
+  
+- [Cocktails App](https://github.com/HerniRG/Cocktails): Cocktails application.
+  This project allows users to explore information about cocktails using the cocktaildb.com API. Users can search for cocktails by name and view details such as cocktail name, alcoholic content, glass type, ingredients, and instructions. Developed in Swift.
+  
+- [Notes Cloud App](https://github.com/HerniRG/notes_-todo_firebase_stream): Cloud-based notes application.
+  Notes Cloud App is a Flutter application that facilitates secure note-taking and management. The application uses Firebase for authentication and cloud storage.
+  
+- [Basic Calculator Android App](https://github.com/HerniRG/calculadora-Android): Basic calculator application developed with Android and Kotlin. It provides essential functionalities for performing simple mathematical operations.
+  
+- [Divide Ticket App](https://github.com/HerniRG/Divide-Ticket-App): Divide Ticket Calculator.
+  This Android application, developed in Kotlin and XML, helps calculate the tip, total amount with tip, and the amount each diner should pay based on the ticket amount, number of diners, and selected tip percentage.
+  
+- [Cinema App](https://github.com/HerniRG/cinema): Movies application.
+  This project allows users to explore information about popular movies, top-rated movies, and upcoming releases. The application includes a login system that stores the user in SharedPreferences for a personalized experience.
+  
+- [Weather API](https://github.com/HerniRG/weather_api): Weather forecast application.
+  This application retrieves the current weather forecast based on the user's location and displays an animation reflecting the current weather conditions. It also changes the background according to the weather state.
+  
+- [Photo API](https://github.com/HerniRG/photo_api): Photo gallery application in Flutter.
+  This project displays a photo gallery with various categories using the Unsplash API. Users can explore photos, select an image, and download it with options to choose the saving destination and file name.
+  
+- [To-Do App](https://github.com/HerniRG/to_do_app): To-Do List application built with Flutter.
+  This project showcases a user interface to manage tasks in Flutter. Users can add, edit, and delete items from the list, with changes saved locally on the mobile device.
+
+---
+
 [![Visitor Count](https://visitcount.itsvg.in/api?id=HerniRG&icon=0&color=0)](https://visitcount.itsvg.in)
