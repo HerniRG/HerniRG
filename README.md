@@ -1,7 +1,7 @@
 ### 👋 Hi I'm Hernán:
 ![Header](https://live.staticflickr.com/65535/53795777117_d05af880b5_o.png)
 
-🔧 Mobile developer skilled in Flutter, Android, and iOS.<br>
+🔧 Mobile developer skilled in Swift, Kotlin and Dart.<br>
 🚀 Passionate about teamwork and creating innovative mobile solutions.<br>
 📱 Currently focusing on impactful mobile app development.<br>
 💬 Ask me about mobile development, teamwork, or collaboration.<br>
