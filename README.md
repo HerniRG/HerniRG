@@ -28,9 +28,7 @@
 
 ### 📁 My Projects:
 - [Ahorcado Python](https://github.com/HerniRG/AhorcadoPython): Ahorcado Game.
-  This simple project, developed in Python.
-
-https://github.com/HerniRG/AhorcadoPython
+  This project is a Game of Ahorcado. This classic guessing game tests your wits and your luck. Guess the hidden word before the hangman is completed and win the game!
 - [Python Password Generator](https://github.com/HerniRG/PythonPasswordGenerator): Password generator.
   This simple project, developed in Python and Tkinter, generates random passwords and saves them in a text file.
   
