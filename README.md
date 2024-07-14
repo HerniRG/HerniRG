@@ -1,16 +1,50 @@
-### 👋 Hi I'm Hernán:
+
+### 👋 Hi, I'm Hernán:
+
 ![Header](https://live.staticflickr.com/65535/53795777117_d05af880b5_o.png)
 
-🔧 Mobile developer skilled in Swift, Kotlin and Dart.<br>
-🚀 Passionate about teamwork and creating innovative mobile solutions.<br>
-📱 Currently focusing on impactful mobile app development.<br>
-💬 Ask me about mobile development, teamwork, or collaboration.<br>
-🌍 Open to new opportunities and collaborations.<br>
-📫 Reach me at hernanrg85@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/).
+---
+
+🔧 **Mobile developer** skilled in Swift, Kotlin, and Dart.<br>
+🚀 Passionate about **teamwork** and creating **innovative mobile solutions**.<br>
+📱 Currently focusing on **impactful mobile app development**.<br>
+💬 Ask me about **mobile development, teamwork, or collaboration**.<br>
+🌍 Open to **new opportunities and collaborations**.<br>
+📫 Reach me at **hernanrg85@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/).
+
+---
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
 [![Website](https://img.shields.io/badge/Website-hernirg.github.io-%23121011.svg?style=flat&logo=github&logoColor=white)](https://hernirg.github.io)
+
+---
+
+### 💼 About Me:
+
+I am a passionate mobile application developer with experience in Dart (Flutter), Kotlin (Android), and Swift (iOS). I have a strong background in creating mobile apps with a focus on user experience and performance. I am currently expanding my skills in Kotlin and Swift, and I am always eager to learn new technologies.
+
+- **Languages**: Spanish (Native), English (Intermediate)
+- **Location**: Tudela, Navarra
+- **Contact**: hernanrg85@gmail.com
+
+---
+
+### 🎓 Education:
+
+- **KeepCoding**
+  - Development of Apps for iOS and Android with Applied Generative Artificial Intelligence
+
+- **MasterD**
+  - Advanced Course in Programming Applications for Mobile Devices
+
+- **IES Tiempos Modernos Zaragoza**
+  - Higher Degree in Telecommunications and Computer Systems
+
+- **IES ETI Tudela**
+  - Technological Baccalaureate
+
+---
 
 ### 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
@@ -27,7 +61,7 @@
 
 ---
 
-### 📁 My Projects:
+### 📁 GitHub Projects:
 
 - [Python Contacts SQLite](https://github.com/HerniRG/python_contacts_sqlite): Contact Management Application.
   This project is a contact management application built with Python, SQLite, and follows the MVC architectural pattern. It allows users to add, view, update, and delete contacts. The application includes unit tests for the model using pytest, ensuring reliability and robustness.
@@ -63,4 +97,41 @@
 
 ---
 
+### 📁 Published Projects:
+
+- **[Tus Fiestas App](https://link-to.app/ejgjAXoGcY)**: iOS and Android application.
+  - Technologies: Flutter, Dart, Provider, Shared Preferences, Firebase Firestore Database, Firebase Messaging, Admob.
+  - Description: An app to manage and explore local festivals, including features like weather API integration and notifications.
+
+- **[Questioner](https://link-to.app/pBhAMnTU8s)**: iOS and Android application.
+  - Technologies: Flutter, Dart, Shared Preferences, API opentdb.
+  - Description: A quiz application with adaptable design and integration with the Open Trivia Database API.
+
+- **[Tu Lista App](https://link-to.app/tDfybpi4m7)**: iOS and Android application.
+  - Technologies: Flutter, Dart, Shared Preferences, GetX, API integration, Notifications.
+  - Description: A shopping list app with dark/light mode and connectivity to food and non-food product APIs.
+
+---
+
+### 📜 Certifications:
+
+- **Scrum Manager** (January 2024)
+- **Relational Databases, SQL, and MySQL** (April 2024)
+- **Git, GitHub, and SourceTree** (April 2024)
+- **Flutter Certifications** (Various)
+- **Android App Programming with Kotlin** (Udemy, September 2022)
+
+---
+
+### 🛠️ Professional Experience:
+
+- **Non-Food Scanning Reference, Carrefour Tudela** (October 2021 - Present)
+- **Non-Food Commercial Coordinator, Carrefour Spain** (November 2010 - October 2021)
+- **Sales in Computer, Telephony, and Video Games, FNAC Spain** (May 2009 - November 2010)
+- **IT Technician, C&F Zaragoza** (May 2008 - May 2009)
+
+---
+
 [![Visitor Count](https://visitcount.itsvg.in/api?id=HerniRG&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
