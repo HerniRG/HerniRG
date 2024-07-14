@@ -28,8 +28,13 @@
 ---
 
 ### 📁 My Projects:
+
+- [Python Contacts SQLite](https://github.com/HerniRG/python_contacts_sqlite): Contact Management Application.
+  This project is a contact management application built with Python, SQLite, and follows the MVC architectural pattern. It allows users to add, view, update, and delete contacts. The application includes unit tests for the model using pytest, ensuring reliability and robustness.
+
 - [Ahorcado Python](https://github.com/HerniRG/AhorcadoPython): Ahorcado Game.
   This project is a Game of Ahorcado. This classic guessing game tests your wits and your luck. Guess the hidden word before the hangman is completed and win the game!
+  
 - [Python Password Generator](https://github.com/HerniRG/PythonPasswordGenerator): Password generator.
   This simple project, developed in Python and Tkinter, generates random passwords and saves them in a text file.
   
