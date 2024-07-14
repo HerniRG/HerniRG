@@ -124,7 +124,7 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 🛠️ Professional Experience:
 
-- **Non-Food Scanning Reference, Carrefour Tudela** (October 2021 - Present)
+- **Non-Food Scanning Reference, Carrefour Spain** (October 2021 - Present)
 - **Non-Food Commercial Coordinator, Carrefour Spain** (November 2010 - October 2021)
 - **Sales in Computer, Telephony, and Video Games, FNAC Spain** (May 2009 - November 2010)
 - **IT Technician, C&F Zaragoza** (May 2008 - May 2009)
