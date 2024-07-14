@@ -1,4 +1,3 @@
-
 ### 👋 Hi, I'm Hernán:
 
 ![Header](https://live.staticflickr.com/65535/53795777117_d05af880b5_o.png)
@@ -7,7 +6,7 @@
 
 🔧 **Mobile developer** skilled in Swift, Kotlin, and Dart.<br>
 🚀 Passionate about **teamwork** and creating **innovative mobile solutions**.<br>
-📱 Currently focusing on **impactful mobile app development**.<br>
+📱 Currently **focusing** on enhancing skills and training in **native app development**.<br>
 💬 Ask me about **mobile development, teamwork, or collaboration**.<br>
 🌍 Open to **new opportunities and collaborations**.<br>
 📫 Reach me at **hernanrg85@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/).
@@ -22,7 +21,7 @@
 
 ### 💼 About Me:
 
-I am a passionate mobile application developer with experience in Dart (Flutter), Kotlin (Android), and Swift (iOS). I have a strong background in creating mobile apps with a focus on user experience and performance. I am currently expanding my skills in Kotlin and Swift, and I am always eager to learn new technologies.
+I am a mobile application developer with experience in Dart (Flutter), Kotlin (Android), and Swift (iOS). I have a strong background in creating mobile apps with a focus on user experience and performance. I am currently expanding my skills in Kotlin and Swift, and I am always eager to learn new technologies.
 
 - **Languages**: Spanish (Native), English (Intermediate)
 - **Location**: Tudela, Navarra
