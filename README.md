@@ -62,6 +62,9 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [IMC Calculator](https://github.com/HerniRG/IMC-Calculator): IMC Calculator Application.
+  This project is an application for calculating the Body Mass Index (BMI). It allows users to select their gender, input their height, weight, and age to calculate their BMI. The application is developed using SwiftUI.
+
 - [Python Contacts SQLite](https://github.com/HerniRG/python_contacts_sqlite): Contact Management Application.
   This project is a contact management application built with Python, SQLite, and follows the MVC architectural pattern. It allows users to add, view, update, and delete contacts. The application includes unit tests for the model using pytest, ensuring reliability and robustness.
 
