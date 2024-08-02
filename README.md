@@ -62,6 +62,9 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [SuperHero Finder](https://github.com/HerniRG/SuperHero-Finder): Superhero information application.
+  This project allows users to search for information about superheroes using the ApiNetwork API. The app displays details such as power stats, biography, appearance, work, and connections. Developed in SwiftUI.
+
 - [IMC Calculator](https://github.com/HerniRG/IMC-Calculator): IMC Calculator Application.
   This project is an application for calculating the Body Mass Index (BMI). It allows users to select their gender, input their height, weight, and age to calculate their BMI. The application is developed using SwiftUI.
 
