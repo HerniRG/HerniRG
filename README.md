@@ -24,7 +24,7 @@
 I am a mobile application developer with experience in Dart (Flutter), Kotlin (Android), and Swift (iOS). I have a strong background in creating mobile apps with a focus on user experience and performance. I am currently expanding my skills in Kotlin and Swift, and I am always eager to learn new technologies.
 
 - **Languages**: Spanish (Native), English (Intermediate)
-- **Location**: Tudela, Navarra
+- **Location**: Navarra
 - **Contact**: hernanrg85@gmail.com
 
 ---
