@@ -62,6 +62,9 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [Olympics](https://github.com/HerniRG/Olympics): Olympics Medals and Sports.
+  This project provides information about the Olympics 2024 using the Codante JJOO Api. It displays a list of countries with their medal counts and a list of sports disciplines with their respective pictograms. Developed in SwiftUI.
+
 - [SuperHero Finder](https://github.com/HerniRG/SuperHero-Finder): Superhero information application.
   This project allows users to search for information about superheroes using the ApiNetwork API. The app displays details such as power stats, biography, appearance, work, and connections. Developed in SwiftUI.
 
