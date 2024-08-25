@@ -62,6 +62,8 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [Wordle](https://github.com/HerniRG/Wordle-SwiftUI): A Wordle-inspired game. This project allows users to guess a five-letter word within a limited number of attempts. It fetches random words from a Spanish word API, handles diacritics, and provides a visual interface to display correct and incorrect guesses. Developed in SwiftUI.
+
 - [Olympics](https://github.com/HerniRG/Olympics): Olympics Medals and Sports.
   This project provides information about the Olympics 2024 using the Codante JJOO Api. It displays a list of countries with their medal counts and a list of sports disciplines with their respective pictograms. Developed in SwiftUI.
 
