@@ -15,7 +15,7 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
-[![Website](https://img.shields.io/badge/Website-hernan-rodriguez.com-%23121011.svg?style=flat&logo=github&logoColor=white)](https://hernan-rodriguez.com/)
+[![Website](https://img.shields.io/badge/Website-hernan--rodriguez.com-blue?style=flat&logo=google-chrome&logoColor=white)](https://hernan-rodriguez.com/)
 
 ---
 
