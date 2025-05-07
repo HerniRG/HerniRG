@@ -62,6 +62,8 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [MyStoryPath](https://github.com/HerniRG/MyStoryPath): MyStoryPath is an app that brings back the classic "Choose Your Own Adventure" books, now powered by artificial intelligence. The user creates a character by defining their name, role, personality, world, and genre, and the AI model generates an interactive story that evolves based on the user's choices. It also includes a dynamically generated epilogue. Developed in SwiftUI with MVVM architecture and the Mistral‑7B‑Instruct model via OpenRouter.
+
 - [ToDo-MVVM](https://github.com/HerniRG/ToDo-MVVM): ToDo-MVVM is a task management application built using the MVVM (Model-View-ViewModel) architectural pattern in Swift. The app uses Core Data for data persistence, allowing users to efficiently add, edit, complete, and delete tasks while ensuring their data is stored locally. Developed in UIKit.
   
 - [Wordle](https://github.com/HerniRG/Wordle-SwiftUI): A Wordle-inspired game. This project allows users to guess a five-letter word within a limited number of attempts. It fetches random words from a Spanish word API, handles diacritics, and provides a visual interface to display correct and incorrect guesses. Developed in SwiftUI.
