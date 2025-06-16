@@ -62,6 +62,8 @@ I am a mobile application developer with experience in Dart (Flutter), Kotlin (A
 
 ### 📁 GitHub Projects:
 
+- [ListAI](https://github.com/HerniRG/ListAI): ListAI is a collaborative shopping list app powered by artificial intelligence. Users can share and edit lists in real time, and use smart AI features to extract items from any text, generate suggestions based on current context, or even propose items from a simple idea. Developed in SwiftUI with MVVM, Combine, and OpenRouter integration.
+
 - [MyStoryPath](https://github.com/HerniRG/MyStoryPath): MyStoryPath is an app that brings back the classic "Choose Your Own Adventure" books, now powered by artificial intelligence. The user creates a character by defining their name, role, personality, world, and genre, and the AI model generates an interactive story that evolves based on the user's choices. It also includes a dynamically generated epilogue. Developed in SwiftUI with MVVM architecture and the Mistral‑7B‑Instruct model via OpenRouter.
 
 - [ToDo-MVVM](https://github.com/HerniRG/ToDo-MVVM): ToDo-MVVM is a task management application built using the MVVM (Model-View-ViewModel) architectural pattern in Swift. The app uses Core Data for data persistence, allowing users to efficiently add, edit, complete, and delete tasks while ensuring their data is stored locally. Developed in UIKit.
